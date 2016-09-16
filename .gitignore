@@ -3,3 +3,5 @@ app/*.js.map
 node_modules
 typings
 
+/angular2-canvas-examples.iml
+.idea
